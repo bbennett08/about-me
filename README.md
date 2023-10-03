@@ -1,2 +1,6 @@
 # about-me
-My first GitHub repository including my name and WSU email.
+
+
+# My name: Brianna Bennett
+
+# My WSU email: brianna.m.bennett@wsu.edu
